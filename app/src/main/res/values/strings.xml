@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IanesPatrimonio</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="movimentar">Movimentar</string>
+    <string name="ianes">IANES</string>
+    <string name="item">Item:</string>
+    <string name="dataLastMov">Útima movimentação:</string>
+    <string name="origem">Ambiente de origem:</string>
+    <string name="destino">Ambiente Destino:</string>
+    <string name="date">Data da movimentação:</string>
+    <string name="usuario">Usuário Responsável:</string>
+    <string name="mov">Movimentação</string>
+    <string name="pat">Patrimônio:</string>
+    <string name="dataCada">Data Cadastro:</string>
+    <string name="frase">Sistema inteligente de gerenciamento!</string>
+    <string name="patrimonios">Patrimônios</string>
+    <string name="it">Item</string>
+</resources>
